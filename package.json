@@ -1,0 +1,13 @@
+{
+    "name": "backend-projeto",
+    "version": "0.1.0",
+    "private": true,
+    "type": "commonjs",
+    "engines":{
+        "node": "24.x"
+    },
+
+    "scripts": {
+        "dev": "vercel dev"
+    }
+}
